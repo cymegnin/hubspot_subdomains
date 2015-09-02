@@ -16,5 +16,5 @@ coreo_aws_route53_record "info" do
     action :sustain
     type "CNAME"
     zone "cloudcoreo.com"
-    values ["www.google.com"]
+    values ["523365.group15.sites.hubspot.net"]
 end
